@@ -6,8 +6,8 @@ Counted the frequently occouriing words and built a model to predict the review 
 
 Contributors
 
-Atharva Rajbanshi
-Harsh Chandekar
-Anunay Gupta
-Vikrant Kadlaskar
+Atharva Rajbanshi |
+Harsh Chandekar |
+Anunay Gupta |
+Vikrant Kadlaskar  
 
